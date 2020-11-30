@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="DocumentosPrueba" Database="" Version="10000">
+  <Project Name="DocumentosPrueba" Path="DocumentosPrueba/DocumentosPrueba.project" Active="No"/>
+  <Project Name="LabHomework1" Path="LabHomework1/LabHomework1.project" Active="No"/>
+  <Project Name="PL1" Path="PL1/PL1.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="DocumentosPrueba" ConfigName="Debug"/>
+      <Project Name="LabHomework1" ConfigName="Debug"/>
+      <Project Name="PL1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="DocumentosPrueba" ConfigName="Release"/>
+      <Project Name="LabHomework1" ConfigName="Release"/>
+      <Project Name="PL1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,1 @@
+Debug/main.cpp.o Debug/Interface.cpp.o Debug/CoreLogic.cpp.o Debug/Project.cpp.o Debug/DListS.cpp.o Debug/Queue.cpp.o Debug/DListNodeP.cpp.o Debug/DListP.cpp.o Debug/DListNodeS.cpp.o Debug/QueueNode.cpp.o Debug/Student.cpp.o Debug/StackNode.cpp.o Debug/Stack.cpp.o   
